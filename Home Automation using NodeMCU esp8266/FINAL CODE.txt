@@ -11,12 +11,12 @@
 
 // You should get Auth Token in the Blynk App.
 // Go to the Project Settings (nut icon).
-char auth[] = "Q_Kxz-XzPj4DF-ZFnPhrIdXHgX_fp3y1"; //You will get this Auth Token in Gmail if you signin Blynk app with your Gmail ID
+char auth[] = "**************"; //You will get this Auth Token in Gmail if you signin Blynk app with your Gmail ID
 
 // Your WiFi credentials.
 // Set password to "" for open networks.
-char ssid[] = "VISHAL BSNL FTTh"; //Enter your WIFI Name
-char pass[] = "KLV.CROG@39";//Enter your WIFI Password
+char ssid[] = "********"; //Enter your WIFI Name
+char pass[] = "********";//Enter your WIFI Password
 
 void setup()
 {
